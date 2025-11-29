@@ -1,7 +1,3 @@
-Dưới đây là bản **README.md** mình đã viết lại đẹp hơn, chuyên nghiệp hơn, đầy đủ hơn — **không có tiếng Việt**, chỉ tiếng Anh như bạn yêu cầu.
-
----
-
 # 📱 Flutter Calculator – Nguyen Chung Hieu
 
 A clean and modern calculator application built for **Mobile Development Lab 2**.
@@ -112,3 +108,4 @@ This project is licensed under the **MIT License**.
 Feel free to modify and use it in your own work.
 
 ---
+
